@@ -1,0 +1,8 @@
+#container {
+  border: 2px black dotted;
+}
+.dog {
+  padding: 20px;
+  margin: 5%;
+  border: solid 2px green;
+}
